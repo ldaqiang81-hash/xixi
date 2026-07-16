@@ -10,5 +10,17 @@
       "en": "Creator-owned characters.",
       "zh": "You chuangzuo zhe yongyou."
     }
+  },
+  {
+    "slug": "human-avatars",
+    "name": "Human Avatars",
+    "label": {
+      "en": "Human Avatars",
+      "zh": "Renlei Touxiang"
+    },
+    "description": {
+      "en": "Real-person likenesses and creator avatars.",
+      "zh": "Zhenren lianxiang he chuangzuo zhe touxiang."
+    }
   }
 ]
