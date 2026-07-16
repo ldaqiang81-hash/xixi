@@ -1,0 +1,153 @@
+{
+  "petId": "nuan--codex",
+  "displayName": "Nuan",
+  "description": "A warm, friendly companion with a gentle heart and a curious spark in their eyes.",
+  "spriteVersionNumber": 2,
+  "columns": 8,
+  "rows": 11,
+  "cellWidth": 192,
+  "cellHeight": 208,
+  "width": 1536,
+  "height": 2288,
+  "animations": {
+    "idle": {
+      "row": 0,
+      "frames": 6,
+      "durations": [
+        280,
+        110,
+        110,
+        140,
+        140,
+        320
+      ]
+    },
+    "running-right": {
+      "row": 1,
+      "frames": 8,
+      "durations": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        220
+      ]
+    },
+    "running-left": {
+      "row": 2,
+      "frames": 8,
+      "durations": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        220
+      ]
+    },
+    "waving": {
+      "row": 3,
+      "frames": 4,
+      "durations": [
+        140,
+        140,
+        140,
+        280
+      ]
+    },
+    "jumping": {
+      "row": 4,
+      "frames": 5,
+      "durations": [
+        140,
+        140,
+        140,
+        140,
+        280
+      ]
+    },
+    "failed": {
+      "row": 5,
+      "frames": 8,
+      "durations": [
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        240
+      ]
+    },
+    "waiting": {
+      "row": 6,
+      "frames": 6,
+      "durations": [
+        150,
+        150,
+        150,
+        150,
+        150,
+        260
+      ]
+    },
+    "running": {
+      "row": 7,
+      "frames": 6,
+      "durations": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        220
+      ]
+    },
+    "review": {
+      "row": 8,
+      "frames": 6,
+      "durations": [
+        150,
+        150,
+        150,
+        150,
+        150,
+        280
+      ]
+    },
+    "look-000-to-157.5": {
+      "row": 9,
+      "frames": 8,
+      "directions": [
+        "000",
+        "022.5",
+        "045",
+        "067.5",
+        "090",
+        "112.5",
+        "135",
+        "157.5"
+      ]
+    },
+    "look-180-to-337.5": {
+      "row": 10,
+      "frames": 8,
+      "directions": [
+        "180",
+        "202.5",
+        "225",
+        "247.5",
+        "270",
+        "292.5",
+        "315",
+        "337.5"
+      ]
+    }
+  }
+}
