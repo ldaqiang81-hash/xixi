@@ -7,7 +7,7 @@
     "primary_category": "Human Avatars",
     "collections": [],
     "license": "CC BY-NC 4.0",
-    "description": "Enhanced v2! A round chibi penguin hoodie girl with dance, heart, spin, and 16-direction look tracking!",
+    "description": "Enhanced v2! Round chibi penguin hoodie girl with dance, heart, spin, and 16-direction look tracking!",
     "spriteVersionNumber": 2
   },
   {
@@ -20,7 +20,20 @@
       "original-characters"
     ],
     "license": "CC BY-NC 4.0",
-    "description": "A warm, friendly chibi companion. v2 with 16-direction look tracking.",
+    "description": "Warm, friendly chibi companion with warm peach skin, dark hair, and cozy cyan scarf. v2.",
+    "spriteVersionNumber": 2
+  },
+  {
+    "slug": "xiaoying--codex",
+    "name": "Xiaoying",
+    "author": "Codex",
+    "author_handle": "codex",
+    "primary_category": "Original Characters",
+    "collections": [
+      "original-characters"
+    ],
+    "license": "CC BY-NC 4.0",
+    "description": "Soft anime-style character with warm peach skin, dark flowing hair, and pink-white dress. v2.",
     "spriteVersionNumber": 2
   }
 ]
